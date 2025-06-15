@@ -1,1 +1,1 @@
-# OOP
+# OOP (mini_project)
